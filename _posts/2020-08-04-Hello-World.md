@@ -17,4 +17,14 @@ print("Hello World!")
 
 {% endhighlight %}
 
+Ruby as example:
+
+{% highlight ruby linenos %}
+
+def hello
+  puts "Hello World!"
+end
+
+{% endhighlight %}
+
 ![hello_world](https://images90.fotosik.pl/405/5d73a5e843952d5f.png)
