@@ -2,7 +2,7 @@
 title: Hello World!
 ---
 # Hello World! 
-Let's start some blogging.
+Let's start some blogging. As always, be friend with [Jekyll Docs](https://jekyllrb.com/docs/). 
 
 
 ```python
