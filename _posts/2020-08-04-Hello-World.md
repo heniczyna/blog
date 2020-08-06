@@ -1,7 +1,6 @@
 ---
 title: Hello World!
 ---
-# Hello World! 
 Let's start some blogging. As always, be friend with [Jekyll Docs](https://jekyllrb.com/docs/). 
 
 
@@ -9,7 +8,7 @@ Let's start some blogging. As always, be friend with [Jekyll Docs](https://jekyl
 print("Hello World!")
 ```
 
-Different way of highlighting the code:
+Different way (native for Jekyll) of highlighting the code with line numbers:
 
 {% highlight python linenos %}
 
@@ -17,14 +16,16 @@ print("Hello World!")
 
 {% endhighlight %}
 
-Ruby as example:
+which looks like below as pure code:
 
-{% highlight ruby linenos %}
+```
+{% highlight python linenos %}
 
-def hello
-  puts "Hello World!"
-end
+print("Hello World!")
 
 {% endhighlight %}
+```
+
+Finally, the output is:
 
 ![hello_world](https://images90.fotosik.pl/405/5d73a5e843952d5f.png)
