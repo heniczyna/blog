@@ -20,9 +20,7 @@ which looks like below as pure code:
 
 ```
 {% highlight python linenos %}
-
 print("Hello World!")
-
 {% endhighlight %}
 ```
 
