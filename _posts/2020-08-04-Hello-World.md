@@ -6,6 +6,7 @@ Let's start some blogging. As always, be friend with [Jekyll Docs](https://jekyl
 
 ```python
 print("Hello World!")
+print("Hello World123!")
 ```
 
 Different way (native for Jekyll) of highlighting the code with line numbers:
