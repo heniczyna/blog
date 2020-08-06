@@ -21,6 +21,7 @@ which looks like below as pure code:
 ```
 {% highlight python linenos %}
 print("Hello World!")
+print("Hello Hello!")
 {% endhighlight %}
 ```
 
