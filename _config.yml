@@ -1,4 +1,5 @@
 # Site settings
+remote_theme: pages-themes/hacker 
 title: Emerald | A simple Jekyll blog
 description: "A minimal blog template, build with Jekyll."
 url: "http://www.jacoporabolini.com/emerald"
