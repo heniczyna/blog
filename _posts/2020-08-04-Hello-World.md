@@ -3,30 +3,25 @@ title: Hello World!
 ---
 Let's start some blogging. As always, be friend with [Jekyll Docs](https://jekyllrb.com/docs/). 
 
+This is Markdown way of code highlighting (with defining what language it refers to):
+
+```python
+print("Hello World!")
+```
+
+And the same without any language defined:
 
 ```
 print("Hello World!")
-print("Hello World123!")
 ```
 
-Different way (native for Jekyll) of highlighting the code with line numbers:
+Different way (native for Jekyll) of code highlighting with line numbers:
 
 {% highlight python linenos %}
 
 print("Hello World!")
 
 {% endhighlight %}
-
-which looks like below as pure code:
-
-```
-{% highlight python linenos %}
-print("Hello World!")
-print("Hello Hello!")
-{% endhighlight %}
-```
-
-Try to code inline `val a = 4` in Markdown.
 
 Finally, the output is:
 
