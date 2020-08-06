@@ -4,7 +4,7 @@ title: Hello World!
 Let's start some blogging. As always, be friend with [Jekyll Docs](https://jekyllrb.com/docs/). 
 
 
-```python
+```
 print("Hello World!")
 print("Hello World123!")
 ```
