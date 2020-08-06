@@ -26,6 +26,8 @@ print("Hello World!")
 {% endhighlight %}
 ```
 
+Try to code inline `val a = 4` in Markdown.
+
 Finally, the output is:
 
 ![hello_world](https://images90.fotosik.pl/405/5d73a5e843952d5f.png)
